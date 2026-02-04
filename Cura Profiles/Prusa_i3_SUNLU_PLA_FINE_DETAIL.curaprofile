@@ -1,0 +1,32 @@
+{
+  "name": "Prusa i3 SUNLU PLA \u2013 Fine Detail",
+  "settings": {
+    "layer_height": 0.16,
+    "initial_layer_height": 0.2,
+    "line_width": 0.4,
+    "speed_print": 55,
+    "speed_wall_0": 30,
+    "speed_wall": 45,
+    "speed_infill": 70,
+    "speed_topbottom": 35,
+    "speed_travel": 160,
+    "acceleration_enabled": true,
+    "acceleration_print": 1000,
+    "acceleration_wall": 700,
+    "acceleration_wall_0": 500,
+    "acceleration_infill": 1400,
+    "acceleration_travel": 2000,
+    "jerk_enabled": true,
+    "jerk_print": 6,
+    "jerk_wall": 5,
+    "jerk_wall_0": 4,
+    "jerk_travel": 8,
+    "material_print_temperature": 200,
+    "material_bed_temperature": 60,
+    "cool_fan_speed": 100,
+    "retraction_amount": 0.8,
+    "retraction_speed": 30,
+    "z_hop_height": 0.2,
+    "material_max_volumetric_speed": 7.5
+  }
+}
